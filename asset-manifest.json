@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wordCraft/static/css/main.31d6cfe0.css",
+    "main.js": "/wordCraft/static/js/main.655b5370.js",
+    "static/js/787.2d6beb63.chunk.js": "/wordCraft/static/js/787.2d6beb63.chunk.js",
+    "index.html": "/wordCraft/index.html",
+    "main.655b5370.js.map": "/wordCraft/static/js/main.655b5370.js.map",
+    "787.2d6beb63.chunk.js.map": "/wordCraft/static/js/787.2d6beb63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.655b5370.js"
+  ]
+}
